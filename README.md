@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heven07
-- 👀 I’m interested in advanced python coding.
-- 🌱 I’m currently learning C++, and Python.
+- 👀 I’m interested in Advanced Python, Cython and Assembly.
+- 🌱 I’m currently learning Assembly and Python.
 - 💞️ I’m looking to collaborate on everything with a learning opportunity
 - 📫 How to reach me: over github or my email heven2k2@gmail.com
 
