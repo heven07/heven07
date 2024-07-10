@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Digital Forensic Asset Generation](https://heven07.github.io)
 
-- 🌱 I’m currently learning **Assembly and Python**
+- 🌱 I’m currently learning **Java and Assembly**
 
 - 👯 I’m looking to collaborate on **everything with a learning opportunity**
 
