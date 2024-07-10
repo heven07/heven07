@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm heven</h1>
 <h3 align="center">A passionate cyber-sec enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Digital Forensic Asset Generation](https://heven07.github.io)
+- 🔭 I’m currently working on **LLM Jailbreaking**
 
 - 🌱 I’m currently learning **Java and Assembly**
 
